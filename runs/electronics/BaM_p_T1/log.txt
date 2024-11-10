@@ -1,0 +1,50 @@
+[iter: 1000] train loss: 14.2352, recall@10: 0.007, nDCG@10: 0.0027
+[iter: 2000] train loss: 13.7544, recall@10: 0.015, nDCG@10: 0.006
+[iter: 3000] train loss: 13.4139, recall@10: 0.018, nDCG@10: 0.0085
+[iter: 4000] train loss: 13.1831, recall@10: 0.019, nDCG@10: 0.01
+[iter: 5000] train loss: 13.0369, recall@10: 0.015, nDCG@10: 0.0087
+[iter: 6000] train loss: 12.9122, recall@10: 0.018, nDCG@10: 0.0099
+[iter: 7000] train loss: 12.8023, recall@10: 0.024, nDCG@10: 0.015
+[iter: 8000] train loss: 12.6736, recall@10: 0.025, nDCG@10: 0.0134
+[iter: 9000] train loss: 12.5659, recall@10: 0.018, nDCG@10: 0.0118
+[iter: 10000] train loss: 12.4750, recall@10: 0.024, nDCG@10: 0.0147
+[iter: 11000] train loss: 12.3852, recall@10: 0.021, nDCG@10: 0.0104
+[iter: 12000] train loss: 12.2973, recall@10: 0.029, nDCG@10: 0.0147
+[iter: 13000] train loss: 12.2005, recall@10: 0.018, nDCG@10: 0.0071
+[iter: 14000] train loss: 12.1347, recall@10: 0.025, nDCG@10: 0.0149
+[iter: 15000] train loss: 12.0674, recall@10: 0.022, nDCG@10: 0.0117
+[iter: 16000] train loss: 11.9884, recall@10: 0.032, nDCG@10: 0.016
+[iter: 17000] train loss: 11.9402, recall@10: 0.024, nDCG@10: 0.0139
+[iter: 18000] train loss: 11.8591, recall@10: 0.016, nDCG@10: 0.009
+[iter: 19000] train loss: 11.8162, recall@10: 0.031, nDCG@10: 0.0174
+[iter: 20000] train loss: 11.7543, recall@10: 0.032, nDCG@10: 0.0185
+[iter: 21000] train loss: 11.6785, recall@10: 0.026, nDCG@10: 0.0155
+[iter: 22000] train loss: 11.6509, recall@10: 0.032, nDCG@10: 0.0165
+[iter: 23000] train loss: 11.5924, recall@10: 0.03, nDCG@10: 0.0165
+[iter: 24000] train loss: 11.5515, recall@10: 0.024, nDCG@10: 0.0138
+[iter: 25000] train loss: 11.4844, recall@10: 0.026, nDCG@10: 0.014
+[iter: 26000] train loss: 11.4422, recall@10: 0.025, nDCG@10: 0.0116
+[iter: 27000] train loss: 11.4173, recall@10: 0.025, nDCG@10: 0.0132
+[iter: 28000] train loss: 11.3594, recall@10: 0.023, nDCG@10: 0.0108
+[iter: 29000] train loss: 11.3268, recall@10: 0.023, nDCG@10: 0.0144
+[iter: 30000] train loss: 11.2707, recall@10: 0.035, nDCG@10: 0.0209
+[iter: 31000] train loss: 11.2272, recall@10: 0.034, nDCG@10: 0.0183
+[iter: 32000] train loss: 11.1874, recall@10: 0.025, nDCG@10: 0.0135
+[iter: 33000] train loss: 11.1639, recall@10: 0.025, nDCG@10: 0.0141
+[iter: 34000] train loss: 11.1188, recall@10: 0.029, nDCG@10: 0.016
+[iter: 35000] train loss: 11.1004, recall@10: 0.022, nDCG@10: 0.0117
+[iter: 36000] train loss: 11.0560, recall@10: 0.029, nDCG@10: 0.0164
+[iter: 37000] train loss: 11.0349, recall@10: 0.029, nDCG@10: 0.0177
+[iter: 38000] train loss: 10.9948, recall@10: 0.028, nDCG@10: 0.0195
+[iter: 39000] train loss: 10.9831, recall@10: 0.028, nDCG@10: 0.0166
+[iter: 40000] train loss: 10.9349, recall@10: 0.03, nDCG@10: 0.0173
+[iter: 41000] train loss: 10.8795, recall@10: 0.023, nDCG@10: 0.0134
+[iter: 42000] train loss: 10.8761, recall@10: 0.018, nDCG@10: 0.0092
+[iter: 43000] train loss: 10.8553, recall@10: 0.026, nDCG@10: 0.016
+[iter: 44000] train loss: 10.8087, recall@10: 0.031, nDCG@10: 0.0161
+[iter: 45000] train loss: 10.7958, recall@10: 0.031, nDCG@10: 0.0146
+[iter: 46000] train loss: 10.7526, recall@10: 0.027, nDCG@10: 0.0126
+
+--------TEST[@10,@20]--------
+recall:	[0.0231, 0.0343]
+nDCG:	[0.0124, 0.0152]
