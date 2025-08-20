@@ -88,3 +88,14 @@ The original datasets are available at:
 - Amazon (Movies & TV, Books, and Electronics): https://mengtingwan.github.io/data/goodreads.html
 - MovieLens 1M: https://grouplens.org/datasets/movielens/1m/
 - Yelp: https://www.yelp.com/dataset
+
+## Citation
+Please cite the following paper if you use our code:
+```
+@INPROCEEDINGS{BaM,
+  author={Jaeri Lee and Jeongin Yun and U Kang},
+  booktitle={2024 IEEE International Conference on Big Data (BigData)}, 
+  title={Towards True Multi-interest Recommendation: Enhanced Scheme for Balanced Interest Training}, 
+  year={2024},
+  doi={10.1109/BigData62323.2024.10825213}}
+```
