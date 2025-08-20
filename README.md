@@ -96,6 +96,5 @@ Please cite the following paper if you use our code:
   author={Jaeri Lee and Jeongin Yun and U Kang},
   booktitle={2024 IEEE International Conference on Big Data (BigData)}, 
   title={Towards True Multi-interest Recommendation: Enhanced Scheme for Balanced Interest Training}, 
-  year={2024},
-  doi={10.1109/BigData62323.2024.10825213}}
+  year={2024}}
 ```
